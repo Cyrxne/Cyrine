@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cyrine</h1>
-<h3 align="center">A passionate frontend developer and Video Editor from France</h3>
+<h3 align="center">A passionate frontend developer and video editor from France</h3>
 
-- 🌱 I’m currently learning **frameworks, Javascript, Linux**
+- 🌱 I’m currently learning **Frameworks, Javascript, After Effects, Linux**
 
 - 📫 How to reach me **cyrinegl.pro@gmail.com**
 
